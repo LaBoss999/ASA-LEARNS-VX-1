@@ -599,6 +599,8 @@ h6 {
 
 #banner {
     background-size: cover;
+    background: url("/images/banner-images/banner-image-2.jpg") no-repeat center top;
+    background-size:cover;
 }
 
 #banner-content.row {
